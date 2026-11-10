@@ -1,9 +1,10 @@
-# 멀티모달 RAG — 부동산시장 PDF에서 그래프·표까지 답하는 질의응답
+# 멀티모달 RAG 과제
+## 주제: 부동산시장 PDF에서 표, 차트까지 확인해서 질의응답
 
 PDF 한 편에서 **텍스트·표·그래프(이미지)** 를 분리해 추출하고, 각각을 **요약**해 검색에 쓰고, 답변은 **원본**으로 생성하는 멀티모달 RAG입니다.
 같은 질문을 **텍스트 전용 RAG(Before)** 와 **멀티모달 RAG(After)** 에 던져 차이를 확인했습니다.
 
-> 실행 노트북: [`multimodal_rag_ip.ipynb`](./multimodal_rag_ip.ipynb) (실행 결과 포함)
+> 실행 노트북: [`multimodal_rag_ip.ipynb`](./multimodal_rag_ip.ipynb)
 
 ---
 
