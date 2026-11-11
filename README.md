@@ -138,7 +138,7 @@ flowchart TD
 
 ### 설치와 실행
 ```bash
-git clone <이 저장소 주소>
+git clone https://github.com/doxoba/multimodal-rag-assignment.git
 cd multimodal-rag-assignment
 
 # 가상환경 (Python 3.11 권장)
